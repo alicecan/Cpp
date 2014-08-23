@@ -1,0 +1,24 @@
+Inserting integers to tree: 6, 2, 10, 50, 12, 8
+2 6 8 10 12 50 
+
+Deleting 8...
+Print in-order: 
+2 6 10 12 50 
+
+Deleting 12...
+Print in-order: 
+2 6 10 50 
+Print pre-order: 
+6 2 10 50 
+Print post-order: 
+2 50 10 6 
+
+Insert string to tree: apple, orange and mango 
+Print in-order: 
+apple mango orange 
+
+Deleting orange...
+Print in-order: 
+apple mango 
+
+Press any key to continue . . . 
